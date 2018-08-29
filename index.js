@@ -1,4 +1,3 @@
-function sayHello() {
-  returns('Hello')
-
+function happyHolidays() {
+  return('Happy holidays!')
 }
