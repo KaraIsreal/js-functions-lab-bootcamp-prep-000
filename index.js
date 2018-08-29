@@ -1,5 +1,4 @@
+function sayHello() {
+  console.log('Hello')
 
-
-function sayhappyHolidaysTo(name) {
-  console.log('Happy holidays, ${name!}')
 }
